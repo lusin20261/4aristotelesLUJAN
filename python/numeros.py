@@ -1,0 +1,11 @@
+print ("========================bienvenido a mi calculadora========================")
+a = input("ingresa el primer numero")
+b = input("ingresa el segundo numero") 
+c = input(a)
+d = input(b) 
+print ("la multiplicacion es: ",a*b)
+print("la divion es:",a/b)        
+print("la suma es:",a+b)
+print("la resta es:",a-b)
+print("============================gracias==========================================")
+
